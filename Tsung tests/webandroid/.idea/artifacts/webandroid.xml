@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webandroid">
+    <output-path>$PROJECT_DIR$/out/artifacts/webandroid</output-path>
+    <root id="archive" name="webandroid.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webandroid" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="webandroid/web/Web" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
