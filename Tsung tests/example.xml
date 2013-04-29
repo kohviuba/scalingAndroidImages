@@ -4,15 +4,15 @@
 
   <!-- Client side setup -->
   <clients>
-    <client host="tsung1" weight="1" maxusers="1">
+    <client host="tsung1" weight="1" maxusers="50">
        <ip value="10.248.97.171"></ip>
     </client>
 
-    <client host="tsung2" weight="1" maxusers="1">
+    <client host="tsung2" weight="1" maxusers="50">
        <ip value="10.249.194.240"></ip>
     </client>
 
-    <client host="tsung3" weight="1" maxusers="1">
+    <client host="tsung3" weight="1" maxusers="50">
        <ip value="10.249.114.225"></ip>
     </client>
   </clients>
@@ -33,7 +33,7 @@
   the mean inter-arrival time between new clients and the phase
   duration -->
    <arrivalphase phase="1" duration="2" unit="second">
-     <users interarrival="0.00125" unit="second"></users>
+     <users interarrival="0.02" unit="second"></users>
    </arrivalphase>
 
 
