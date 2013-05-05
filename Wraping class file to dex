@@ -1,0 +1,12 @@
+Taken from http://milk.com/kodebase/dalvik-docs-mirror/docs/hello-world.html 
+
+
+ % cat > Foo.java
+  class Foo { public static void main(String[] args) {
+    System.out.println("Hello, world");
+  } }
+  (ctrl-D)
+  % javac Foo.java
+  % dx --dex --output=foo.jar Foo.class
+  % ./rund -cp foo.jar Foo
+  Hello, world
