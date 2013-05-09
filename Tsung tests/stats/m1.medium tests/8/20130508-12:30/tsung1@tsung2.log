@@ -1,0 +1,195 @@
+
+=INFO REPORT==== 8-May-2013::12:30:27 ===
+  ts_launcher_static:(5:<0.60.0>) Launch msg receive ("tsung2")
+
+=INFO REPORT==== 8-May-2013::12:30:27 ===
+         ts_launcher:(5:<0.61.0>) Launch msg receive ("tsung2")
+
+=INFO REPORT==== 8-May-2013::12:30:27 ===
+     ts_launcher_mgr:(4:<0.56.0>) No registered processes ! syncing ...
+
+=INFO REPORT==== 8-May-2013::12:30:27 ===
+         ts_launcher:(5:<0.61.0>) Expected duration of first phase: 120.0 sec 
+
+=INFO REPORT==== 8-May-2013::12:30:27 ===
+         ts_launcher:(5:<0.61.0>) Activate launcher (120 users) in 7297 msec 
+
+=INFO REPORT==== 8-May-2013::12:31:42 ===
+           ts_client:(3:<0.117.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:31:43 ===
+           ts_client:(3:<0.119.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:31:45 ===
+           ts_client:(3:<0.121.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:31:48 ===
+           ts_client:(3:<0.122.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:31:48 ===
+           ts_client:(3:<0.123.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:31:51 ===
+           ts_client:(3:<0.126.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:02 ===
+           ts_client:(3:<0.130.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:04 ===
+           ts_client:(3:<0.136.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:05 ===
+           ts_client:(3:<0.137.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:06 ===
+           ts_client:(3:<0.140.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:08 ===
+           ts_client:(3:<0.141.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:09 ===
+           ts_client:(3:<0.143.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:09 ===
+           ts_client:(3:<0.144.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:10 ===
+           ts_client:(3:<0.145.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:13 ===
+           ts_client:(3:<0.117.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:14 ===
+           ts_client:(3:<0.147.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:14 ===
+           ts_client:(3:<0.148.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:16 ===
+           ts_client:(3:<0.121.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:18 ===
+           ts_client:(3:<0.149.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:18 ===
+           ts_client:(3:<0.150.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:19 ===
+           ts_client:(3:<0.123.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:22 ===
+           ts_client:(3:<0.154.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:22 ===
+           ts_client:(3:<0.126.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:28 ===
+           ts_client:(3:<0.157.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:30 ===
+           ts_client:(3:<0.159.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:31 ===
+           ts_client:(3:<0.161.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:32 ===
+           ts_client:(3:<0.162.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:33 ===
+           ts_client:(3:<0.163.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:33 ===
+           ts_client:(3:<0.130.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:34 ===
+           ts_client:(3:<0.164.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:34 ===
+         ts_launcher:(5:<0.61.0>) Phase duration exceeded, but not all users were launched (15 users, 12.5% of phase)
+
+=INFO REPORT==== 8-May-2013::12:32:34 ===
+         ts_launcher:(5:<0.61.0>) This was the last phase, wait for connected users to finish their session
+
+=INFO REPORT==== 8-May-2013::12:32:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 93 active client(s)
+
+=INFO REPORT==== 8-May-2013::12:32:35 ===
+           ts_client:(3:<0.165.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:35 ===
+           ts_client:(3:<0.166.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:37 ===
+           ts_client:(3:<0.140.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:39 ===
+           ts_client:(3:<0.141.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:40 ===
+           ts_client:(3:<0.143.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:41 ===
+           ts_client:(3:<0.145.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:43 ===
+           ts_client:(3:<0.168.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:45 ===
+           ts_client:(3:<0.147.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:45 ===
+           ts_client:(3:<0.148.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:48 ===
+           ts_client:(3:<0.169.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:49 ===
+           ts_client:(3:<0.150.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:51 ===
+           ts_client:(3:<0.172.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:52 ===
+           ts_client:(3:<0.173.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:53 ===
+           ts_client:(3:<0.154.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:32:59 ===
+           ts_client:(3:<0.157.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:00 ===
+           ts_client:(3:<0.123.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:03 ===
+           ts_client:(3:<0.162.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:04 ===
+           ts_client:(3:<0.163.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:06 ===
+           ts_client:(3:<0.165.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:06 ===
+           ts_client:(3:<0.166.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:22 ===
+           ts_client:(3:<0.172.0>) (Re)connect from 10.249.194.240 to 46.137.180.210:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::12:33:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 66 active client(s)
+
+=INFO REPORT==== 8-May-2013::12:34:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 45 active client(s)
+
+=INFO REPORT==== 8-May-2013::12:35:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 33 active client(s)
+
+=INFO REPORT==== 8-May-2013::12:36:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 26 active client(s)
+
+=INFO REPORT==== 8-May-2013::12:37:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 16 active client(s)
+
+=INFO REPORT==== 8-May-2013::12:38:34 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 6 active client(s)

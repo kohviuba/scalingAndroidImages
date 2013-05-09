@@ -1,0 +1,60 @@
+
+=INFO REPORT==== 9-May-2013::22:50:46 ===
+  ts_launcher_static:(5:<0.60.0>) Launch msg receive ("tsung2")
+
+=INFO REPORT==== 9-May-2013::22:50:46 ===
+         ts_launcher:(5:<0.61.0>) Launch msg receive ("tsung2")
+
+=INFO REPORT==== 9-May-2013::22:50:46 ===
+     ts_launcher_mgr:(4:<0.56.0>) No registered processes ! syncing ...
+
+=INFO REPORT==== 9-May-2013::22:50:46 ===
+         ts_launcher:(5:<0.61.0>) Expected duration of first phase: 120.0 sec 
+
+=INFO REPORT==== 9-May-2013::22:50:46 ===
+         ts_launcher:(5:<0.61.0>) Activate launcher (80 users) in 11992 msec 
+
+=INFO REPORT==== 9-May-2013::22:52:38 ===
+         ts_launcher:(5:<0.61.0>) This was the last phase, wait for connected users to finish their session
+
+=INFO REPORT==== 9-May-2013::22:52:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 80 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:52:42 ===
+           ts_client:(3:<0.139.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::22:52:51 ===
+           ts_client:(3:<0.144.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::22:53:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 80 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:54:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 65 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:55:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 65 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:56:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 65 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:57:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 64 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:58:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 64 active client(s)
+
+=INFO REPORT==== 9-May-2013::22:59:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 64 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:00:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 64 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:01:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 54 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:02:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 54 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:03:38 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 31 active client(s)

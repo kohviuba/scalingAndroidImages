@@ -1,0 +1,198 @@
+
+=INFO REPORT==== 8-May-2013::14:56:57 ===
+  ts_launcher_static:(5:<0.60.0>) Launch msg receive ("tsung2")
+
+=INFO REPORT==== 8-May-2013::14:56:57 ===
+         ts_launcher:(5:<0.61.0>) Launch msg receive ("tsung2")
+
+=INFO REPORT==== 8-May-2013::14:56:57 ===
+     ts_launcher_mgr:(4:<0.56.0>) No registered processes ! syncing ...
+
+=INFO REPORT==== 8-May-2013::14:56:57 ===
+         ts_launcher:(5:<0.61.0>) Expected duration of first phase: 300.0 sec 
+
+=INFO REPORT==== 8-May-2013::14:56:57 ===
+         ts_launcher:(5:<0.61.0>) Activate launcher (200 users) in 11166 msec 
+
+=INFO REPORT==== 8-May-2013::15:00:12 ===
+           ts_client:(3:<0.153.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:00:22 ===
+           ts_client:(3:<0.158.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:00:44 ===
+           ts_client:(3:<0.171.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:00:53 ===
+           ts_client:(3:<0.158.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:00:58 ===
+           ts_client:(3:<0.178.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:00:58 ===
+           ts_client:(3:<0.179.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:00 ===
+           ts_client:(3:<0.180.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:08 ===
+           ts_client:(3:<0.182.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:11 ===
+           ts_client:(3:<0.185.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:15 ===
+           ts_client:(3:<0.171.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:15 ===
+           ts_client:(3:<0.188.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:24 ===
+           ts_client:(3:<0.192.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:31 ===
+           ts_client:(3:<0.198.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:31 ===
+           ts_client:(3:<0.199.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:34 ===
+           ts_client:(3:<0.200.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:36 ===
+           ts_client:(3:<0.201.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:38 ===
+           ts_client:(3:<0.204.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:40 ===
+           ts_client:(3:<0.206.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:42 ===
+           ts_client:(3:<0.185.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:44 ===
+           ts_client:(3:<0.208.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:44 ===
+           ts_client:(3:<0.209.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:44 ===
+           ts_client:(3:<0.210.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:46 ===
+           ts_client:(3:<0.188.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:49 ===
+           ts_client:(3:<0.211.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:52 ===
+           ts_client:(3:<0.212.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:52 ===
+           ts_client:(3:<0.213.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:55 ===
+           ts_client:(3:<0.192.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:56 ===
+           ts_client:(3:<0.216.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:56 ===
+           ts_client:(3:<0.217.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:01:58 ===
+           ts_client:(3:<0.218.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:00 ===
+           ts_client:(3:<0.220.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:02 ===
+           ts_client:(3:<0.199.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:05 ===
+           ts_client:(3:<0.224.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:07 ===
+           ts_client:(3:<0.201.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:09 ===
+           ts_client:(3:<0.225.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:09 ===
+           ts_client:(3:<0.204.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:09 ===
+         ts_launcher:(5:<0.61.0>) Phase duration exceeded, but not all users were launched (31 users, 15.5% of phase)
+
+=INFO REPORT==== 8-May-2013::15:02:09 ===
+         ts_launcher:(5:<0.61.0>) This was the last phase, wait for connected users to finish their session
+
+=INFO REPORT==== 8-May-2013::15:02:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 126 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:02:11 ===
+           ts_client:(3:<0.206.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:15 ===
+           ts_client:(3:<0.208.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:15 ===
+           ts_client:(3:<0.209.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:15 ===
+           ts_client:(3:<0.210.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:18 ===
+           ts_client:(3:<0.232.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:21 ===
+           ts_client:(3:<0.234.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:23 ===
+           ts_client:(3:<0.235.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:23 ===
+           ts_client:(3:<0.213.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:27 ===
+           ts_client:(3:<0.188.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:29 ===
+           ts_client:(3:<0.218.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:31 ===
+           ts_client:(3:<0.220.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:36 ===
+           ts_client:(3:<0.224.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:02:40 ===
+           ts_client:(3:<0.225.0>) (Re)connect from 10.249.194.240 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 8-May-2013::15:03:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 99 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:04:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 79 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:05:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 72 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:06:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 72 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:07:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 59 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:08:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 44 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:09:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 28 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:10:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 27 active client(s)
+
+=INFO REPORT==== 8-May-2013::15:11:09 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 16 active client(s)

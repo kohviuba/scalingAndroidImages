@@ -1,0 +1,102 @@
+
+=INFO REPORT==== 9-May-2013::23:08:26 ===
+  ts_launcher_static:(5:<0.60.0>) Launch msg receive ("tsung3")
+
+=INFO REPORT==== 9-May-2013::23:08:26 ===
+         ts_launcher:(5:<0.61.0>) Launch msg receive ("tsung3")
+
+=INFO REPORT==== 9-May-2013::23:08:26 ===
+     ts_launcher_mgr:(4:<0.56.0>) No registered processes ! syncing ...
+
+=INFO REPORT==== 9-May-2013::23:08:26 ===
+         ts_launcher:(5:<0.61.0>) Expected duration of first phase: 120.0 sec 
+
+=INFO REPORT==== 9-May-2013::23:08:26 ===
+         ts_launcher:(5:<0.61.0>) Activate launcher (120 users) in 10194 msec 
+
+=INFO REPORT==== 9-May-2013::23:10:22 ===
+           ts_client:(3:<0.142.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:23 ===
+           ts_client:(3:<0.143.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:27 ===
+           ts_client:(3:<0.146.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:27 ===
+           ts_client:(3:<0.147.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:33 ===
+           ts_client:(3:<0.152.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:37 ===
+         ts_launcher:(5:<0.61.0>) Phase duration exceeded, but not all users were launched (14 users, 11.7% of phase)
+
+=INFO REPORT==== 9-May-2013::23:10:37 ===
+         ts_launcher:(5:<0.61.0>) This was the last phase, wait for connected users to finish their session
+
+=INFO REPORT==== 9-May-2013::23:10:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 106 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:10:37 ===
+           ts_client:(3:<0.155.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:41 ===
+           ts_client:(3:<0.156.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:43 ===
+           ts_client:(3:<0.159.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:45 ===
+           ts_client:(3:<0.162.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:47 ===
+           ts_client:(3:<0.165.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:49 ===
+           ts_client:(3:<0.166.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:49 ===
+           ts_client:(3:<0.168.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:49 ===
+           ts_client:(3:<0.169.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:10:52 ===
+           ts_client:(3:<0.170.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:11:12 ===
+           ts_client:(3:<0.156.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:11:20 ===
+           ts_client:(3:<0.169.0>) (Re)connect from 10.249.114.225 to ec2-54-216-34-182.eu-west-1.compute.amazonaws.com:8080, Error: etimedout
+
+=INFO REPORT==== 9-May-2013::23:11:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 104 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:12:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 95 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:13:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 95 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:14:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 95 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:15:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 95 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:16:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 86 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:17:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 83 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:18:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 83 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:19:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 49 active client(s)
+
+=INFO REPORT==== 9-May-2013::23:20:37 ===
+     ts_launcher_mgr:(5:<0.56.0>) Still 32 active client(s)
